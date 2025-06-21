@@ -1,0 +1,13 @@
+## Topics Covered:
+- Introduction and Creation of StateGraph
+- Schema Design and Pydantic
+- Chains and Tools
+- Creating Multi-Tool Agents
+- Simple ReAct Agents
+- Streaming and Debugging
+- Workflow 1: Prompt Chaining
+- Workflow 2: Parallelization
+- Workflow 3: Routing
+- Workflow 4: Orchestrator-Worker
+- Workflow 5: Evaluator-Optimizer
+- Human In The Loop
